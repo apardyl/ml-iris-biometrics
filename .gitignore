@@ -1,0 +1,12 @@
+data/
+venv/
+.idea/
+checkpoint*
+__pycache__/
+runs/
+saved_models/
+*.sqlite3
+*.pck
+*.backup
+test/
+extracted/
